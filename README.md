@@ -39,3 +39,7 @@ Then, you will need to clone this repository locally on your PC, using git, type
 ```sh
 git clone https://github.com/insertx2k/qrcode-gen
 ```
+<br>
+
+### What's missing? <br>
+**What's missing here is the icon of the program, if you have any good suggestion for a better one, consider forking this repo, or create a pull request.**
