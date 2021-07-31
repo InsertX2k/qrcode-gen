@@ -11,6 +11,11 @@ A Beautifully designed QR Code Generator Tool for Desktops/Laptops
 
 <br>
 
+![Inside of the program](https://user-images.githubusercontent.com/62176660/127750491-c3737605-4d91-4304-90c2-d901a7e8ae26.jpg)
+
+
+<br>
+
 ## How to compile <br>
 Basically compile using **Pyinstaller** or **Py2exe** (Choose the one that you are fimiliar with) <br>
 
