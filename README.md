@@ -1,3 +1,5 @@
+#### I am not planning to release any new updates for this program, it is already good the way it is.
+
 # Advanced QR Code Generator Tool
 A Beautifully designed QR Code Generator Tool for Desktops/Laptops
 
